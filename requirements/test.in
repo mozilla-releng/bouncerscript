@@ -1,9 +1,0 @@
--r base.in
-
-coverage
-flake8
-mock
-pytest
-pytest-asyncio
-pytest-cov
-pytest-mock
